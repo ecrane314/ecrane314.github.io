@@ -1,5 +1,9 @@
+---
+#layout: post
+title: null
+---
+
 # Evan Crane    
-<!--    # _Technology Partnerships_  -->
 Austin, TX | ecrane314 at gmail | [LinkedIn](https://www.linkedin.com/in/evancrane/) | [GitHub](https://github.com/ecrane314)
 
 
