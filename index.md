@@ -18,6 +18,7 @@ Team leader in our sales organization driving our customers' go-to-market, autom
 * Defining multi-group [Cloud Platform, Chrome, Ads, YouTube] partnerships that modernize execution, often converting legacy models to SaaS achieving preferred financial outcomes
 * Account leadership in field sales organization running team financial modeling and forecasting
 * Certified Architect [4 Disciplines] conducting discovery across technical requirements, existing business processes, and customer skill assessment
+<!-- * Product requirements influence and preview alpha testing hosting key customer sponsors -->
 
 **CLOUD & COGNITIVE SOLUTIONS ARCHITECTURE**
 
@@ -65,6 +66,6 @@ services client capturing $15 million in revenue
 
 ## Personal Interests
 
-* Buy and Hold Investing, Options Trading, and Fed Watching
+* Personal Finance: Buy and Hold Investing, Options Trading, Fed Watching
 * Audio Engineering
-* Road Biking, Golfing, and Skiing
+* Cycling, Golf, and Alpine Skiing
