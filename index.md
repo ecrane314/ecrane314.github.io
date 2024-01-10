@@ -12,13 +12,13 @@ Austin, TX | ecrane314 at gmail | [LinkedIn](https://www.linkedin.com/in/evancra
 
 _GOOGLE, LLC | AUSTIN, TX | JAN 2018 - Present_
 
-Team leader in our sales organization driving our customers' go-to-market, automation, and business decision solutions. Google Stratosphere Award recipient for launching partnership with Fortune 100 customer while exemplifying Google Values.
+Team leader in our enterprise cloud segment driving technical thought leadership in our customers' go-to-market, AI, and business decision solutions. Google Stratosphere Award recipient for launching partnership with Fortune 100 customer while exemplifying Google Values.
 
-* Influencing the selection and adoption of cloud services with billings exceeding $100M
-* Defining multi-group [Cloud Platform, Chrome, Ads, YouTube] partnerships that modernize execution, often converting legacy models to SaaS achieving preferred financial outcomes
+* Influencing the selection and adoption of cloud solutions in individual accounts exceeding $10M/yr
+* Defining multi-product partnerships [Cloud Platform with Chrome, Ads, and YouTube] that modernize client execution, often converting customer-deployed to preferrable financial outcomes via SaaS
+* Certified Architect [4 Disciplines], leading Google and partner teams to conduct technical discovery and assessment across technical requirements, business processes, and customer expertise
 * Account leadership in field sales organization running team financial modeling and forecasting
-* Certified Architect [4 Disciplines] conducting discovery across technical requirements, existing business processes, and customer skill assessment
-<!-- * Product requirements influence and preview alpha testing hosting key customer sponsors -->
+<!-- * Drove Google product requirements through alpha testing with key customers -->
 
 **CLOUD & COGNITIVE SOLUTIONS ARCHITECTURE**
 
@@ -53,7 +53,7 @@ services client capturing $15 million in revenue
 ## Technical Profile
 
 * Google Cloud Platform Certified in [Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect) (3x), 
-[Professional Data Engineer](https://cloud.google.com/certification/data-engineer) (2x), 
+[Professional Data Engineer](https://cloud.google.com/certification/data-engineer) (3x), 
 [Professional Network Engineer](https://cloud.google.com/certification/cloud-network-engineer), 
 [Professional Security Engineer](https://cloud.google.com/certification/cloud-security-engineer)
 * Solution scoping, design, pricing, and positioning
