@@ -1,6 +1,6 @@
 ---
 #layout: post
-title: null
+title: Evan Crane's Resume
 ---
 
 # Evan Crane    
